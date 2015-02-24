@@ -1,0 +1,23 @@
+{
+  "name": "node-adyen-cse",
+  "version": "0.1.0",
+  "author": "Hicham Elg <h.elghourfi@gmail.com.com>",
+  "description": "adyen client side encryption for Node.js.",
+  "keywords": [
+    "node-adyen-cse",
+    "adyen-cse",
+    "adyen"
+  ],
+  "homepage": "https://github.com/hic2h/node-adyen-cse",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hic2h/node-adyen-cse.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "node-libcurl": "*"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
