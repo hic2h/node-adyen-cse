@@ -5,6 +5,11 @@ adyen client side encryption for Node.js.
 ## Installing
 
 	npm install node-adyen-cse --save
+	
+### For ubuntu users
+
+	sudo apt-get install libcurl3-dev
+	npm install node-adyen-cse --save
 
 ## Usage
 
