@@ -1,6 +1,6 @@
 {
   "name": "node-adyen-cse",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "author": "Hicham Elg <h.elghourfi@gmail.com.com>",
   "description": "adyen client side encryption for Node.js.",
   "keywords": [
@@ -15,7 +15,7 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "node-libcurl": "*"
+
   },
   "engines": {
     "node": ">= 0.8.0"
